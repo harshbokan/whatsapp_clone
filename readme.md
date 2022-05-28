@@ -1,4 +1,5 @@
 This is WhatsApp clone with MERN
+It is functional, however currently lacks User authentication to identify the user(sender) and Chat Room
 
 - whatsapp-backend > node server.js
 - whatsapp-mern    > npm start
